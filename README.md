@@ -14,5 +14,4 @@
 14. index번호를 이용해 범위내의 행 삭제
 15. append, concat, merge를 이용한 데이터프레임 병합
 
-파이썬: 3.6.7(32bit) 버전
-라이브러리: pandas, numpy
+개발환경: python3.6.7(32bit), Windows 10
